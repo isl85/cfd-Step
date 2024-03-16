@@ -3,3 +3,4 @@ CS Start
 -  Synchronize with main code
 -  Try to simulate with an airfoil case
 -  Validate the result to some paper 
+-  Create a progress report
