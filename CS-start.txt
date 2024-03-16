@@ -5,4 +5,4 @@ CS Start
 -  Review the paper
 -  Try to simulate with an airfoil case
 -  Validate the result to some paper 
--  Create a progress report
+-  Use a new mesh and try to simulate again
