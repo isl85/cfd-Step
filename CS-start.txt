@@ -1,6 +1,8 @@
 CS Start
 -  Create Non-Uniform Grid
 -  Synchronize with main code
+-  Find some paper about airfoil
+-  Review the paper
 -  Try to simulate with an airfoil case
 -  Validate the result to some paper 
 -  Create a progress report
